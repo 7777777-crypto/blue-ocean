@@ -8,3 +8,13 @@ dist/
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
+deploy-key
+deploy-key.pub
+cancel-deploy.js
+deploy-script.js
+deploy2.js
+fix-deploy.js
+hook-deploy.js
+upload-deploy.js
+upload2.js
+out.zip
